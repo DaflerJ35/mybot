@@ -1,0 +1,22 @@
+# Audio settings
+audio:
+  clap_threshold: 0.1
+  clap_interval: 0.5
+  sample_rate: 16000
+  frames_per_buffer: 8000
+
+# System monitoring
+system:
+  critical_paths:
+    - "C:\\Windows\\System32\\cmd.exe"
+    - "C:\\Windows\\System32\\drivers\\ntfs.sys"
+  rogue_cpu_threshold: 50
+  rogue_mem_threshold: 30
+  max_file_index: 10000
+
+# File paths
+paths:
+  model: "assets/model"
+  voice_profile: "assets/voice_profile.pkl"
+  database: "data/jarvis_memory.db"
+  log_file: "logs/jarvis.log" 
