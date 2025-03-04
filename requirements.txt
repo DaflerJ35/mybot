@@ -28,7 +28,7 @@ pywin32==306; platform_system == "Windows"
 wmi==1.5.1; platform_system == "Windows"
 
 # Development Tools
-pytest==7.4.3
+pytest==8.3.5
 pytest-asyncio==0.21.1
 black==23.11.0
 ruff==0.1.0 
