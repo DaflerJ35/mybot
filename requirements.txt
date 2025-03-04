@@ -10,7 +10,7 @@ whisper==1.1.10
 # AI and NLP
 transformers==4.37.2
 torch==2.1.2
-sentence-transformers==2.2.2
+sentence-transformers==3.4.1
 spacy==3.7.2
 faiss-cpu==1.7.4
 
