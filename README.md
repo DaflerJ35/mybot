@@ -37,8 +37,8 @@ An intelligent voice assistant with advanced capabilities including voice intera
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/jarvis.git
-cd jarvis
+git clone https://github.com/DaflerJ35/mybot.git
+cd mybot
 
 # Create and activate virtual environment
 python -m venv venv
@@ -132,7 +132,7 @@ pytest --cov=src tests/
 ### Project Structure
 
 ```
-jarvis/
+mybot/
 ├── src/
 │   ├── core/           # Core functionality
 │   ├── ui/            # User interface components
@@ -161,4 +161,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - OpenAI's Whisper for speech recognition
 - Vosk for wake word detection
-- Transformers library for NLP capabilities 
+- Transformers library for NLP capabilities
