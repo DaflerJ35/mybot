@@ -1,7 +1,7 @@
 # Core Voice Processing
 pyttsx3==2.90
 vosk==0.3.45
-pyaudio==0.2.13
+pyaudio==0.2.14
 sounddevice==0.4.6
 soundfile==0.12.1
 webrtcvad==2.0.10
