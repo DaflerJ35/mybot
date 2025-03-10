@@ -31,4 +31,4 @@ wmi==1.5.1; platform_system == "Windows"
 pytest==7.4.3
 pytest-asyncio==0.21.1
 black==23.11.0
-ruff==0.1.0 
+ruff==0.9.10 
